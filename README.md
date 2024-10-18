@@ -1,5 +1,5 @@
 ### My practice with HTML/CSS
-### Theme Calculator
+### Theme: Calculator
 ___
 ![Alt text](images/main.png)
 
